@@ -428,11 +428,12 @@
         {
         "name": "Vozer",
         "author": "Nhocconsr",
-        "path": "https://raw.githubusercontent.com/lethituyen/vbooks-extension/master/vozer/plugin.zip",
+        "path": "https://raw.githubusercontent.com/S4hdw/vbook/blob/main/plugin.zip",
         "version": 5,
         "source": "https://vozer.io",
         "icon": "https://raw.githubusercontent.com/lethituyen/vbooks-extension/master/vozer/icon.png",
         "description": "Truyện Voz."
         }
     ]
+
 }
