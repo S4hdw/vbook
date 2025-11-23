@@ -428,7 +428,7 @@
         {
         "name": "Vozer",
         "author": "Nhocconsr",
-        "path": "https://raw.githubusercontent.com/S4hdw/vbook/blob/main/plugin.zip",
+        "path": "https://raw.githubusercontent.com/S4hdw/vbook/main/plugin.zip",
         "version": 5,
         "source": "https://vozer.io",
         "icon": "https://raw.githubusercontent.com/lethituyen/vbooks-extension/master/vozer/icon.png",
@@ -437,3 +437,4 @@
     ]
 
 }
+
